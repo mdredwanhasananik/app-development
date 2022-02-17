@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.head h1{
+  background-color: #434FC9;
+  color: #FFFFFF;
+  padding: 13px 30px;
+  font-size: 28px;
+  border-bottom: 1px solid #95A682;
+  
+}
+body{
+  background-color: #424FDD;
+}
+.container{
+  width: 324px;
+  height: 250px;
+  margin: auto;
+  background-color: white;
+  margin-top: 90px;
+  border-radius: 5px;
+}
+.container h3{
+  text-align: center;
+  border-bottom: 1px solid#42445A;
+  padding: 5px 0;
+}
+
+.inpud{
+  width: 85%;
+  margin: auto;
+}
+.a{
+  width: 100%;
+  height: 30px;
+  margin-top: 35px;
+  border-radius: 5px;
+  border: 1px solid #1326FC;
+  outline: none;
+  padding-left: 5px;
+  box-sizing: border-box;
+}
+.b{
+  width: 25%;
+  display: inline-block;
+  height: 30px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border: 1px solid #1326FC;
+  outline: none;
+  padding-left: 5px;
+  box-sizing: border-box;
+}
+.c{
+  width: 46.5%;
+  display: inline-block;
+  height: 30px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border: 1px solid #1326FC;
+  outline: none;
+  padding-left: 5px;
+  box-sizing: border-box;
+}
+button{
+  background: #1326FC;
+  color: #FFFFFF;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  border: transparent;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+h5{
+  padding: 0 25px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  font-size: 13px;
+}
